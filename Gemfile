@@ -15,5 +15,5 @@ end
 source "https://github.com/awesome-print/awesome_print"
   gem "awesome_print"
 end 
-gem "awesome_print", :git => "https://github.com/awesome-print/awesome_print"
+#gem "awesome_print", :git => "https://github.com/awesome-print/awesome_print"
 
