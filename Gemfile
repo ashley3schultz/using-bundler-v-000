@@ -12,7 +12,7 @@ gem "sinatra", "1.4.4"
 gem "octokit", "~> 2.0"
 end
 
-source "https://github.com/awesome-print/awesome_print" do
+source "https://github.com/awesome-print/awesome_print.git" do
 gem "awesome_print"
 end 
 #gem "awesome_print", :git => "https://github.com/awesome-print/awesome_print"
