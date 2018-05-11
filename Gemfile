@@ -1,7 +1,7 @@
 
 source "https://rubygems.org"
 
-gem "hashie", :require => false
+gem "hashie"#, :require => false
 gem "sinatra", "1.4.4"
 gem "octokit", "~> 2.0"
 
